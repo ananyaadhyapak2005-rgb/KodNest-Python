@@ -1,2 +1,3 @@
-print("Hello World")
-print("It's Working")
+print("Welcome To The Python Track")
+print("I already know how to build programming logic ")
+print("Now i am learning how to express that logic using python")
